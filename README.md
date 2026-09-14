@@ -70,6 +70,7 @@ Aporto organización y coordinación entre clientes y equipos, con seguimiento d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-151B26?style=for-the-badge&labelColor=273C59&color=151B26)](https://www.linkedin.com/in/orielle-jim%C3%A9nez-villegas-4062a113b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mis_repositorios-151B26?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=393050)](https://github.com/orijimenezv?tab=repositories)
+[![Gmail](https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-151B26?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=151B26)](mailto:orielle.jimenez@gmail.com)
 
 ## Órbita · Full Stack JavaScript
 
