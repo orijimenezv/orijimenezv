@@ -94,6 +94,29 @@ Desplegada con frontend en GitHub Pages, API en Vercel y PostgreSQL en Neon.
 
 `JavaScript` · `Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `JWT`
 
+### Caso de estudio · De ejercicios de curso a aplicación en producción
+
+**Breve descripción.** Órbita nació a partir de ejercicios de los módulos 6, 7 y 8 y evolucionó hasta convertirse en una aplicación Full Stack desplegada de punta a punta, con frontend, API y base de datos relacional.
+
+**Desafío principal.** Integrar autenticación, autorización por usuario, CRUD de pedidos y persistencia real, manteniendo separados los datos de cada cuenta y conectando correctamente servicios desplegados en plataformas distintas.
+
+**Solución propuesta.** Implementé registro e inicio de sesión con JWT, rutas protegidas, autorización por propietario, validaciones, manejo de errores y un CRUD completo de pedidos. El frontend consume la API mediante HTTPS y solo el backend accede a PostgreSQL.
+
+**Herramientas técnicas utilizadas.** HTML5, CSS3, JavaScript, Fetch API, Node.js, Express, Sequelize, PostgreSQL, JWT, bcryptjs, GitHub Pages, GitHub Actions, Vercel y Neon.
+
+**Principales aprendizajes.** Reforcé la diferencia entre autenticación y autorización, el trabajo con APIs REST y bases relacionales, la seguridad de credenciales, CORS, TLS, variables de entorno, pruebas automatizadas y despliegue de una aplicación real.
+
+**Métricas de impacto.**
+
+- 58 pruebas automatizadas aprobadas.
+- CRUD completo de pedidos operativo en producción.
+- 3 componentes desplegados e integrados: frontend, API y base de datos.
+- Recursos aislados por usuario mediante autorización por propietario.
+
+**Habilidades técnicas aplicadas.** Desarrollo frontend y backend, diseño y consumo de APIs REST, modelado de datos, autenticación y autorización, testing, despliegue, control de versiones y resolución de problemas técnicos.
+
+**¿Por qué elegí este proyecto?** Porque es el que mejor representa mi crecimiento técnico durante la formación: pasó de ejercicios independientes a una solución funcional y desplegada, y demuestra mi capacidad para integrar distintas tecnologías y resolver problemas de manera progresiva.
+
 <details>
 <summary><strong>Proyectos adicionales · Alke Wallet y TaskFlow</strong></summary>
 
