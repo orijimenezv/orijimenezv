@@ -10,7 +10,9 @@
   <sub>CONSTRUCCIÓN &nbsp; × &nbsp; TECNOLOGÍA &nbsp; × &nbsp; IMPACTO</sub>
 </p>
 
----
+<p align="center">
+  <img src="assets/neon-divider.svg" alt="" width="100%">
+</p>
 
 ## Sobre mí
 
@@ -22,6 +24,10 @@ Me interesa aplicar herramientas digitales a procesos reales de obra, postventa 
 
 > **Ideas en planos. Soluciones en código.**<br>
 > El mismo compromiso con la calidad, aplicado a nuevos desafíos.
+
+<p align="center">
+  <img src="assets/neon-divider.svg" alt="" width="100%">
+</p>
 
 ## Tecnologías y herramientas
 
@@ -49,6 +55,10 @@ Herramientas que utilizo y continúo profundizando durante mi formación TI.
 
 Además, mis proyectos incorporan APIs REST, Sequelize, SQL, JWT, pruebas con `node:test` y despliegue con GitHub Pages y Vercel.
 
+<p align="center">
+  <img src="assets/neon-divider.svg" alt="" width="100%">
+</p>
+
 ## Construcción · Experiencia y competencias
 
 - **Supervisión de obras:** coordinación de trabajos en terreno, contratistas y proveedores.
@@ -64,7 +74,9 @@ Además, mis proyectos incorporan APIs REST, Sequelize, SQL, JWT, pruebas con `n
 
 Aporto organización y coordinación entre clientes y equipos, con seguimiento de los trabajos desde la planificación hasta el cierre.
 
----
+<p align="center">
+  <img src="assets/neon-divider.svg" alt="" width="100%">
+</p>
 
 ## Contacto
 
