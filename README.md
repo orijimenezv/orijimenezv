@@ -1,16 +1,49 @@
 # Hola, soy Orielle Jiménez 👋
 
-### Desarrolladora Full Stack JavaScript en formación
+### Constructor Civil | Postventa y Gestión de Obras | Full Stack JavaScript Trainee
 
-Actualmente estoy fortaleciendo mi perfil en desarrollo web Full Stack JavaScript, creando proyectos con foco en interfaces claras, APIs, bases de datos y buenas prácticas de desarrollo.
+Soy Constructor Civil con experiencia en postventa inmobiliaria, entrega de departamentos, coordinación de reparaciones, control de calidad, gestión de obras y atención de clientes.
 
-Mi experiencia profesional previa en construcción me ha permitido desarrollar habilidades que también aplico al mundo tech: planificación, control de calidad, resolución de problemas, coordinación y trabajo con personas.
+Paralelamente, estoy ampliando mi perfil profesional en desarrollo Full Stack JavaScript, incorporando herramientas tecnológicas que me permiten desarrollar aplicaciones, automatizar procesos y crear soluciones digitales.
 
-## 🚀 Proyectos destacados
+Mi perfil combina dos áreas que me interesan profesionalmente: **construcción y tecnología**.
+
+## 🏗️ Construcción y gestión de obras
+
+Mi experiencia profesional se ha desarrollado principalmente en postventa inmobiliaria y gestión de trabajos en terreno.
+
+Áreas en las que he trabajado:
+
+- Postventa inmobiliaria.
+- Supervisión de reparaciones y terminaciones.
+- Control de calidad.
+- Entrega y recepción de unidades.
+- Coordinación de contratistas y proveedores.
+- Seguimiento y cierre de observaciones.
+- Atención de propietarios y comunidades.
+- Gestión y seguimiento de trabajos en obra.
+- Revisión de antecedentes técnicos y planos.
+- Resolución de problemas en terreno.
+
+### 🛠️ Herramientas y conocimientos de construcción
+
+`MS Project` `AutoCAD 2D` `ITO` `iConstruye` `Building Clerk` `Control de Calidad` `Postventa` `Gestión de Obras`
+
+---
+
+## 💻 Desarrollo Full Stack JavaScript
+
+Actualmente estoy fortaleciendo mi perfil en desarrollo web Full Stack JavaScript, trabajando con frontend, backend, APIs REST, bases de datos relacionales, autenticación, testing y despliegue de aplicaciones.
+
+Me interesa especialmente explorar cómo la tecnología puede complementar áreas como gestión de obras, control de procesos, postventa, seguimiento de incidencias y automatización de tareas.
+
+## 🚀 Proyectos tecnológicos destacados
 
 ### 🪐 Órbita · Full Stack JavaScript
 
-Aplicación web para organizar pedidos personales con registro, login JWT, dashboard y CRUD completo. Desplegada de punta a punta con frontend en GitHub Pages, API en Vercel y PostgreSQL en Neon.
+Aplicación web para organizar pedidos personales con registro, login JWT, dashboard y CRUD completo.
+
+Desplegada de punta a punta con frontend en GitHub Pages, API en Vercel y PostgreSQL en Neon.
 
 🌐 **Demo:** https://orijimenezv.github.io/Proyecto-Modulos-6-7-y-8/  
 💻 **Código:** https://github.com/orijimenezv/Proyecto-Modulos-6-7-y-8
@@ -41,6 +74,8 @@ Aplicación de gestión de tareas creada con JavaScript vanilla, programación o
 
 ## 🧰 Tecnologías y herramientas
 
+### Desarrollo web
+
 **Frontend**  
 HTML5 · CSS3 · JavaScript · Bootstrap · jQuery
 
@@ -56,20 +91,33 @@ Git · GitHub · VS Code · Postman · GitHub Pages · Vercel · Netlify
 **Testing y calidad**  
 node:test · assert · validaciones · manejo de errores
 
+### Construcción
+
+Postventa inmobiliaria · Gestión de obras · Control de calidad · Terminaciones · Entregas y recepciones · Coordinación de contratistas · MS Project · AutoCAD 2D · ITO
+
 ## 🌱 Actualmente
 
-Estoy profundizando en desarrollo Full Stack JavaScript, especialmente en backend, APIs REST, bases de datos relacionales, testing y despliegue de aplicaciones.
+Continúo desarrollándome profesionalmente tanto en **construcción** como en **tecnología**.
 
-También estoy mejorando continuamente mis proyectos para llevarlos desde ejercicios de formación a proyectos presentables en un portafolio profesional.
+En construcción, me interesa seguir participando en áreas de postventa, terminaciones, calidad, supervisión y gestión de obras.
+
+En tecnología, continúo profundizando en desarrollo Full Stack JavaScript, backend, APIs REST, bases de datos y despliegue de aplicaciones.
 
 ## 💡 Lo que aporto
 
-- Organización y capacidad para llevar tareas desde la planificación hasta el cierre.
+- Experiencia profesional real en terreno y gestión de proyectos.
+- Organización y seguimiento desde la planificación hasta el cierre.
 - Atención al detalle y orientación a la calidad.
 - Resolución práctica de problemas.
-- Comunicación y coordinación con distintos perfiles.
-- Aprendizaje constante y adaptación a nuevas herramientas.
+- Coordinación con clientes, contratistas y distintos equipos.
+- Capacidad para incorporar herramientas digitales a procesos tradicionales.
+- Aprendizaje continuo y adaptación a nuevas tecnologías.
 
 ---
+
+### 🔗 Contacto profesional
+
+- LinkedIn: https://www.linkedin.com/in/orielle-jim%C3%A9nez-villegas-4062a113b/
+- GitHub: https://github.com/orijimenezv
 
 Gracias por visitar mi perfil ✨
